@@ -1,4 +1,8 @@
 For Git Test
 For Git Test (Issue1 / Master)
+<<<<<<< HEAD
 Add Index
 Commit Index
+=======
+For Git Test (Pull)
+>>>>>>> issue3
